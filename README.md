@@ -1,4 +1,4 @@
-## Hi there Anamika👋
+## Hi there, Iam Anamika👋
 
 - Computer Science and Engineering(Artificial Intelligence and Data Science) Student
 - Learning Python,C programming and github
