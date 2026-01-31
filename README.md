@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there Anamika👋
 
-<!--
-**anamika2713/anamika2713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Computer Science and Engineering(Artificial Intelligence and Data Science) Student
+- Learning Python,C programming and github
+- Interested in  Data Analysis and Machine Learning
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Data Analytics
+- Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Currently Learning
+- Data Science Basics
+- DBMS
